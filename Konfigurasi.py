@@ -28,7 +28,7 @@ df,x,y = load_data()
 
 
 # Judul dari tab kanan
-st.title("Prediksi Data IHSG")
+st.title("Prediksi Data IHSG sekarang")
 
 # Menampilkan 5 Data Teratas dan Terbawah
 first_row = df.head(5)
